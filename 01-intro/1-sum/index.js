@@ -7,3 +7,6 @@
 export default function sum(m, n) {
     return m + n;
 }
+
+
+alert(sum(1, 2));
